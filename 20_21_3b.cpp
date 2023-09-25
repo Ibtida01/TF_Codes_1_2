@@ -18,7 +18,7 @@ typedef long double ld;
 
 using namespace std;
 void solve(char* filename) {
-//took help from google
+//took help from google,qoura
     FILE *fp;
     long long sz;
 //    string s;
