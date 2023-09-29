@@ -10,7 +10,6 @@ class HashMapDemo {
         balance.put("Jane Baker", 1378.00);
         balance.put("Tod Hall", 99.22);
         balance.put("Ralph Smith", 19.08);
-        balance.put(null, 0.0);
         String key = "John Doe";
         // Deposit 1,000 into John Doe's account
         tempBalance = balance.get(key);
